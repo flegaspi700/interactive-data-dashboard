@@ -62,7 +62,7 @@ Features include automatic data updates, dark/light theme switching, and respons
 
 ✅ Responsive design implementation  
 
-🔄 Ongoing: Code optimization and feature refinements- 🎯 **Drag & drop functionality** - Rearrange widgets however you like!
+🔄 Ongoing: Code optimization and feature refinements- 🎯 **Drag & drop functionality** 
 
 ## 📄 License
 
