@@ -1,8 +1,4 @@
 ## Interactive Dashboard - Learning Project
-# My Learning Journey: Interactive Dashboard 🌟
-# Interactive Data Dashboard
-# React + TypeScript + Vite
-
 
 
 This is my personal project for learning web development and exploring modern technologies. It's a work in progress as I continue to build my skills in creating interactive web applications.
@@ -67,43 +63,6 @@ Features include automatic data updates, dark/light theme switching, and respons
 ✅ Responsive design implementation  
 
 🔄 Ongoing: Code optimization and feature refinements- 🎯 **Drag & drop functionality** - Rearrange widgets however you like!
-
-
-
-### Learning Resources & References## ✨ Features## React Compiler
-
-
-
-This project incorporates patterns and practices from various learning sources as I explore modern web development. The codebase reflects my ongoing journey in understanding React architecture, TypeScript best practices, and API integration techniques.The best part? Everything updates automatically with real data from various APIs, and you can switch between light and dark themes!
-
-
-
-### Development Notes
-
-
-
-- Built with React 19, TypeScript, and Vite## My Learning Experience
-
-- Uses Tailwind CSS for styling and responsive design
-
-- Integrates with multiple APIs for real-time data- 🌟 **6 Interactive Widgets**: Weather, News, GitHub Stats, Cryptocurrency, Inspirational Quotes, and PlaceholderThe React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-- Implements modern React patterns and hooks
-
-- Features accessible drag-and-drop functionalityThrough building this dashboard, I've been exploring:
-
-
-
-*This project represents my ongoing commitment to learning and improving as a web developer.*- **React** - Learning how to build interactive user interfaces- 🎯 **Drag & Drop**: Customize your layout by dragging widgets to reorder them
-
-- **TypeScript** - Adding type safety to make code more reliable
-
-- **API Integration** - Connecting to real-world data sources- 💾 **Layout Persistence**: Your widget arrangement is automatically saved## Expanding the ESLint configuration
-
-- **Responsive Design** - Making it work great on phones, tablets, and computers
-
-- **Modern Development Tools** - Using cutting-edge build tools and workflows- 🌙 **Dark/Light Theme**: Beautiful theme switching with system preference detection
-
 
 ## 📄 License
 
