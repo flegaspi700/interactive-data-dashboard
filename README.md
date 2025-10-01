@@ -1,4 +1,7 @@
-## Interactive Dashboard - Learning Project# My Learning Journey: Interactive Dashboard 🌟# Interactive Data Dashboard# React + TypeScript + Vite
+## Interactive Dashboard - Learning Project
+# My Learning Journey: Interactive Dashboard 🌟
+# Interactive Data Dashboard
+# React + TypeScript + Vite
 
 
 
@@ -6,8 +9,7 @@ This is my personal project for learning web development and exploring modern te
 
 
 
-### What I'm BuildingHi there! 👋 I'm excited to share this project as part of my journey learning web development and exploring new programming languages.
-
+### What I'm Building
 
 
 An interactive dashboard that displays real-time information from various sources:
